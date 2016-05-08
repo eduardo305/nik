@@ -1,6 +1,6 @@
 // 'use strict'
 //
-// var userDAO = require('../../server/persistence/userDAO');
+// var userDAO = require('../../../server/persistence/userDAO');
 //
 // describe('UserDAO', function() {
 //   it('should find all users', function() {
